@@ -1,0 +1,6 @@
+﻿  game.cpp
+C:\Users\hecto\Downloads\PUCH_HECTOR_AA3_Snake\Snake\Snake\game.cpp(61,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  keyboard.cpp
+  main.cpp
+  Generating Code...
+  Snake.vcxproj -> C:\Users\hecto\Downloads\PUCH_HECTOR_AA3_Snake\Snake\x64\Debug\Snake.exe

@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hecto\\Downloads\\PUCH_HECTOR_AA3_Snake\\Snake\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D706B92-C076-4CCC-9463-1523AB240ECF}|Snake\\Snake.vcxproj|C:\\Users\\hecto\\Downloads\\PUCH_HECTOR_AA3_Snake\\Snake\\Snake\\game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1D706B92-C076-4CCC-9463-1523AB240ECF}|Snake\\Snake.vcxproj|solutionrelative:Snake\\game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D706B92-C076-4CCC-9463-1523AB240ECF}|Snake\\Snake.vcxproj|C:\\Users\\hecto\\Downloads\\PUCH_HECTOR_AA3_Snake\\Snake\\Snake\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1D706B92-C076-4CCC-9463-1523AB240ECF}|Snake\\Snake.vcxproj|solutionrelative:Snake\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D706B92-C076-4CCC-9463-1523AB240ECF}|Snake\\Snake.vcxproj|C:\\Users\\hecto\\Downloads\\PUCH_HECTOR_AA3_Snake\\Snake\\Snake\\keyboard.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1D706B92-C076-4CCC-9463-1523AB240ECF}|Snake\\Snake.vcxproj|solutionrelative:Snake\\keyboard.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D706B92-C076-4CCC-9463-1523AB240ECF}|Snake\\Snake.vcxproj|C:\\Users\\hecto\\Downloads\\PUCH_HECTOR_AA3_Snake\\Snake\\Snake\\keyboard.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1D706B92-C076-4CCC-9463-1523AB240ECF}|Snake\\Snake.vcxproj|solutionrelative:Snake\\keyboard.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D706B92-C076-4CCC-9463-1523AB240ECF}|Snake\\Snake.vcxproj|C:\\Users\\hecto\\Downloads\\PUCH_HECTOR_AA3_Snake\\Snake\\Snake\\game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1D706B92-C076-4CCC-9463-1523AB240ECF}|Snake\\Snake.vcxproj|solutionrelative:Snake\\game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D706B92-C076-4CCC-9463-1523AB240ECF}|Snake\\Snake.vcxproj|C:\\Users\\hecto\\Downloads\\PUCH_HECTOR_AA3_Snake\\Snake\\Snake\\constants.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1D706B92-C076-4CCC-9463-1523AB240ECF}|Snake\\Snake.vcxproj|solutionrelative:Snake\\constants.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "keyboard.h",
+              "DocumentMoniker": "C:\\Users\\hecto\\Downloads\\PUCH_HECTOR_AA3_Snake\\Snake\\Snake\\keyboard.h",
+              "RelativeDocumentMoniker": "Snake\\keyboard.h",
+              "ToolTip": "C:\\Users\\hecto\\Downloads\\PUCH_HECTOR_AA3_Snake\\Snake\\Snake\\keyboard.h",
+              "RelativeToolTip": "Snake\\keyboard.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-26T11:37:08.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "game.cpp",
+              "DocumentMoniker": "C:\\Users\\hecto\\Downloads\\PUCH_HECTOR_AA3_Snake\\Snake\\Snake\\game.cpp",
+              "RelativeDocumentMoniker": "Snake\\game.cpp",
+              "ToolTip": "C:\\Users\\hecto\\Downloads\\PUCH_HECTOR_AA3_Snake\\Snake\\Snake\\game.cpp",
+              "RelativeToolTip": "Snake\\game.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-26T09:25:42.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "game.h",
+              "DocumentMoniker": "C:\\Users\\hecto\\Downloads\\PUCH_HECTOR_AA3_Snake\\Snake\\Snake\\game.h",
+              "RelativeDocumentMoniker": "Snake\\game.h",
+              "ToolTip": "C:\\Users\\hecto\\Downloads\\PUCH_HECTOR_AA3_Snake\\Snake\\Snake\\game.h",
+              "RelativeToolTip": "Snake\\game.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-26T09:08:56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "constants.h",
+              "DocumentMoniker": "C:\\Users\\hecto\\Downloads\\PUCH_HECTOR_AA3_Snake\\Snake\\Snake\\constants.h",
+              "RelativeDocumentMoniker": "Snake\\constants.h",
+              "ToolTip": "C:\\Users\\hecto\\Downloads\\PUCH_HECTOR_AA3_Snake\\Snake\\Snake\\constants.h",
+              "RelativeToolTip": "Snake\\constants.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-26T09:03:06.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "keyboard.cpp",
+              "DocumentMoniker": "C:\\Users\\hecto\\Downloads\\PUCH_HECTOR_AA3_Snake\\Snake\\Snake\\keyboard.cpp",
+              "RelativeDocumentMoniker": "Snake\\keyboard.cpp",
+              "ToolTip": "C:\\Users\\hecto\\Downloads\\PUCH_HECTOR_AA3_Snake\\Snake\\Snake\\keyboard.cpp",
+              "RelativeToolTip": "Snake\\keyboard.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-26T08:58:24.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\hecto\\Downloads\\PUCH_HECTOR_AA3_Snake\\Snake\\Snake\\main.cpp",
+              "RelativeDocumentMoniker": "Snake\\main.cpp",
+              "ToolTip": "C:\\Users\\hecto\\Downloads\\PUCH_HECTOR_AA3_Snake\\Snake\\Snake\\main.cpp",
+              "RelativeToolTip": "Snake\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-26T08:58:24.405Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
